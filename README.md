@@ -7,4 +7,9 @@ Background:
 - My Project (Group Comparison) Generic Assay Categorical/Binary data implementation: Our initiative is geared towards embedding the Generic Assay Categorical/Binary data functionality within the cBioPortal's group comparison segment. By doing so, users will gain the capability to investigate and represent categorical as well as binary data in alignment with cancer genomic insights.
 
 My Mockup design can be found here. https://docs.google.com/presentation/d/1ch7W2iBtJJERIKEsg_FmBB94QVpSKyX7mKUA3FJMdkQ/edit?usp=sharing
+
 My final presentation to the community slides. https://docs.google.com/presentation/d/1YxDsMfbIC53fxJ2rYBPFg5zUkeKINLUpEVk7Tf9N9lU/edit?usp=sharing
+
+Frontend Pull Request:
+
+Backend Pull Request: https://github.com/cBioPortal/cbioportal/pull/10303
