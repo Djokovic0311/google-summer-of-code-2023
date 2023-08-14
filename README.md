@@ -14,7 +14,7 @@ Frontend Pull Request: https://github.com/cBioPortal/cbioportal-frontend/pull/46
 
 Backend Pull Request: https://github.com/cBioPortal/cbioportal/pull/10303
 
-Prior to this internship, I had limited exposure to cancer genomics and the tools used to analyze the data. With cBioPortal's vast repository and integrative features, I was able to dive deep into the world of genomic data exploration, especially from notable sources like TCGA and ICGC.
+Prior to this experience, I had limited exposure to cancer genomics and the tools used to analyze the data. With cBioPortal's vast repository and integrative features, I was able to dive deep into the world of genomic data exploration, especially from notable sources like TCGA and ICGC.
 
 I honed my skills in both frontend and backend development. The project involved a balanced mix of designing user interfaces, ensuring that data is displayed intuitively, and working on the backend to make certain data available and calculations accurate. Collaborating with other developers, researchers, and the broader team at cBioPortal was instrumental. It emphasized the importance of clear communication, understanding diverse perspectives, and working towards a common goal.
 
