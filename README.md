@@ -10,6 +10,6 @@ My Mockup design can be found here. https://docs.google.com/presentation/d/1ch7W
 
 My final presentation to the community slides. https://docs.google.com/presentation/d/1YxDsMfbIC53fxJ2rYBPFg5zUkeKINLUpEVk7Tf9N9lU/edit?usp=sharing
 
-Frontend Pull Request:
+Frontend Pull Request: https://github.com/cBioPortal/cbioportal-frontend/pull/4686
 
 Backend Pull Request: https://github.com/cBioPortal/cbioportal/pull/10303
